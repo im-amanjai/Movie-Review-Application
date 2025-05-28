@@ -1,0 +1,9 @@
+com\presidency\movies\MoviesApplication.class
+com\presidency\movies\Review.class
+com\presidency\movies\ReviewRepository.class
+com\presidency\movies\MovieController.class
+com\presidency\movies\ReviewService.class
+com\presidency\movies\Movie.class
+com\presidency\movies\MovieService.class
+com\presidency\movies\MovieRepository.class
+com\presidency\movies\ReviewController.class
